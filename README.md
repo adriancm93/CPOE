@@ -1,4 +1,4 @@
-## **[Click here](https://github.com/adriancm93/CPOE/blob/main/cpoe_model.ipynb) to view code**
+**[Click here](https://github.com/adriancm93/CPOE/blob/main/cpoe_model.ipynb) to view code**
 
 # CPOE
 Stochastic Gradient Boosting to find Completion Percentage Over Expectation. NFL Analytics.
