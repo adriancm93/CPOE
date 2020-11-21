@@ -5,4 +5,4 @@ In this project, I am attempting to predict the probabilty of a pass being compl
 
 Code here.
 
-## **[Click here](https://github.com/adriancm93/CPOE) to see project**
+## **[Click here](https://github.com/adriancm93/CPOE/blob/main/cpoe_model.ipynb) to see project**
