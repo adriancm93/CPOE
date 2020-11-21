@@ -5,4 +5,4 @@ In this project, I am attempting to predict the probabilty of a pass being compl
 
 Code here.
 
-## **[Click here to see project](https://github.com/adriancm93/CPOE) to visit the tutorial!**
+## **[Click here](https://github.com/adriancm93/CPOE) to see project**
