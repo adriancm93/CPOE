@@ -1,0 +1,24 @@
+**Built this to keep track of my Grid searched results**
+
+**Searched**
+        
+|Parameter|last|last-1|last-2|
+|------|------|------|------|
+|'min_samples_split'||||
+|'min_samples_leaf'||||
+|'max_depth'||||
+|'n_estimators'||||
+|'subsample'||||
+|'learning_rate'||||
+|Run time ||||
+
+**Results**
+
+|Parameter|Best|Best-1|Best-2
+|------|------|------|------|
+|'min_samples_split'||||
+|'min_samples_leaf'||||
+|'max_depth'|||| 
+|'n_estimators'||||
+|'subsample'||||
+|'learning_rate'|||| 
